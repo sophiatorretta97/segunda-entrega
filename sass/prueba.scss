@@ -1,0 +1,63 @@
+#logo
+  display: flex
+  justify-content: start
+  align-items: flex-start
+  background: rgb(241, 198, 201)
+  background: radial-gradient(circle, rgba(240, 201, 204, 0.727) 0%, rgba(241, 198, 192, 1) 51%)
+
+#consul
+  padding: 0%
+
+#tcc
+  display: flex
+  font-family: 'Cormorant Garamond', serif
+  color: gray
+  text-align: justify
+  align-self: center
+  font-size: x-large
+  padding: 5%
+
+#centro
+  background-color: rgb(255, 244, 236)
+
+#footer
+  background: rgb(241, 198, 201)
+  background: radial-gradient(circle, rgba(240, 201, 204, 0.727) 0%, rgba(241, 198, 192, 1) 51%)
+  display: flex
+  justify-content: center
+  align-items: flex-end
+  color: black
+
+.titulo
+  font-family: 'Dancing Script', cursive
+  display: flex
+  text-align: center
+  justify-content: center
+  font-size: xx-large
+
+.copy
+  display: flex
+  text-align: end
+  justify-content: end
+  font-family: 'Domine', serif
+
+#somos
+  font-family: 'Dancing Script', cursive
+  font-size: xx-large
+
+#cti
+  font-size: medium
+
+.card-img-top
+  width: 320px
+  height: 200px
+
+.fondo
+  background-color: rgb(255, 244, 236)
+
+#tituloservicios
+  display: flex
+  font-family: 'Dancing Script', cursive
+  font-size: x-large
+  padding: 10px
+  justify-content: center
